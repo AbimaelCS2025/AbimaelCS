@@ -1,3 +1,2 @@
 # AbimaelCS
-Elementos
-elementos do curso de computação
+Elementos do curso de computação
